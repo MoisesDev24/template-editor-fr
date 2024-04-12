@@ -1411,27 +1411,27 @@ if (isset($datos_plantilla['color_s']) && !empty($datos_plantilla['color_s'])) {
                                 ';
                         }
                     } /*else if(isset($_SESSION["emailAccount"])) {
-                      if($tipo_usuario['account_rol_aid'] == 2 || $tipo_usuario['account_rol_aid'] == 3 || $tipo_usuario['account_rol_aid'] == 4) {
-                          echo '
-                              <span class="subirtext">No has subido ningún Producto.</span>
-                              <a href="https://plateforme.kalstein.net/distribuidor/productos/agregar/" class="btn_agregar_producto" title="Agrega un Producto aquí">
-                                  ¡Agrega un Producto!
-                              </a>
-                          ';
-                      } else {
-                          echo '
-                              <script>
-                                  window.location.replace("https://plateforme.kalstein.net/template-editor/assets/vistas/plantilla.php");
-                              </script>";
-                          ';
-                      }
-                  } else {
-                      echo '
-                          <script>
-                              window.location.replace("https://plateforme.kalstein.net/template-editor/assets/vistas/plantilla.php");
-                          </script>";
-                      ';
-                  }*/
+                     if($tipo_usuario['account_rol_aid'] == 2 || $tipo_usuario['account_rol_aid'] == 3 || $tipo_usuario['account_rol_aid'] == 4) {
+                         echo '
+                             <span class="subirtext">No has subido ningún Producto.</span>
+                             <a href="https://plateforme.kalstein.net/distribuidor/productos/agregar/" class="btn_agregar_producto" title="Agrega un Producto aquí">
+                                 ¡Agrega un Producto!
+                             </a>
+                         ';
+                     } else {
+                         echo '
+                             <script>
+                                 window.location.replace("https://plateforme.kalstein.net/template-editor/assets/vistas/plantilla.php");
+                             </script>";
+                         ';
+                     }
+                 } else {
+                     echo '
+                         <script>
+                             window.location.replace("https://plateforme.kalstein.net/template-editor/assets/vistas/plantilla.php");
+                         </script>";
+                     ';
+                 }*/
                     ?>
                 </div>
 
