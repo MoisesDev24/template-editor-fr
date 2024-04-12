@@ -1,0 +1,68 @@
+[02-Apr-2024 17:18:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function limpiar_inputs() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/infoTienda_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/infoTienda_controller.php on line 9
+[02-Apr-2024 17:18:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function limpiar_inputs() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/infoTienda_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/infoTienda_controller.php on line 9
+[02-Apr-2024 17:35:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function limpiar_inputs() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/estilosTienda_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/estilosTienda_controller.php on line 9
+[02-Apr-2024 17:35:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/imagenesTienda_controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/imagenesTienda_controller.php on line 18
+[02-Apr-2024 17:35:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/imagenesTienda_controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/imagenesTienda_controller.php on line 18
+[02-Apr-2024 17:48:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function limpiar_inputs() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/estilosTienda_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/estilosTienda_controller.php on line 9
+[03-Apr-2024 03:05:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function limpiar_inputs() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/infoTienda_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/infoTienda_controller.php on line 9
+[03-Apr-2024 12:59:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function limpiar_inputs() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/estilosTienda_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/estilosTienda_controller.php on line 9
+[04-Apr-2024 09:59:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function limpiar_inputs() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/estilosTienda_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/estilosTienda_controller.php on line 9
+[04-Apr-2024 15:54:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/imagenesTienda_controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/imagenesTienda_controller.php on line 18
+[04-Apr-2024 18:11:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/imagenesTienda_controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/imagenesTienda_controller.php on line 18
+[05-Apr-2024 03:30:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function limpiar_inputs() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/infoTienda_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/infoTienda_controller.php on line 9
+[05-Apr-2024 09:58:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function limpiar_inputs() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/estilosTienda_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/estilosTienda_controller.php on line 9
+[06-Apr-2024 03:34:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function limpiar_inputs() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/infoTienda_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/infoTienda_controller.php on line 9
+[06-Apr-2024 10:36:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function limpiar_inputs() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/estilosTienda_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/estilosTienda_controller.php on line 9
+[06-Apr-2024 16:01:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/imagenesTienda_controller.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/imagenesTienda_controller.php on line 18
+[07-Apr-2024 03:29:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function limpiar_inputs() in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/infoTienda_controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/plateforme.kalstein.net/template-editor/assets/app/controllers/infoTienda_controller.php on line 9
