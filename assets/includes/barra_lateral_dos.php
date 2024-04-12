@@ -43,7 +43,7 @@
 
     <div class="vista_previa">
         <a href="plantilla.php?show_button=true" class="vista_previa_btn">
-            <span>Aperçu de la Boutique</span>
+            <span>Modifier le magasin</span>
             <svg class="vista_previa_icono" xmlns="http://www.w3.org/2000/svg" width="30" height="30"
                 viewBox="0 -960 960 960" width="24">
                 <path
